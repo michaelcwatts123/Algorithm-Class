@@ -1,0 +1,1 @@
+The main difference between class function and regular functions is, regular functions are hoisted. You must declare a class and then access it, whereas you can declare a regular function after you have used it in code.

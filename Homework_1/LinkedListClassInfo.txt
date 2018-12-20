@@ -1,0 +1,1 @@
+The only major change needed to implement the LinkedList from the github as a class was adding constructors to the node and linkedList. Everythng else was modifying existing syntax by removing unneeded = and ().

@@ -1,0 +1,3 @@
+Using a javascript prototype allows the coder to add new functions and data to already existing javascript objects.
+Objects are linked together by prototypes. Every object with the exception of the Object object are derived from a prototype.
+When an object a's _proto_ property is assigned to another object, b. a inhertis all of b's properties and functions.

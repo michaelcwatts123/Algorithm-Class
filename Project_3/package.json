@@ -1,0 +1,21 @@
+{
+  "name": "project_3",
+  "version": "1.0.0",
+  "description": "image manipulation and process scheduling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "image",
+    "manipulation",
+    "process",
+    "scheduling"
+  ],
+  "author": "Michael Watts",
+  "license": "ISC",
+  "dependencies": {
+    "chance": "^1.0.16",
+    "jimp": "^0.2.28"
+  }
+}
